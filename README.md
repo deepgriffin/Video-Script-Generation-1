@@ -1,4 +1,5 @@
 # Video Script Generation
+[![Youtube Video Script Generation](https://github-production-user-asset-6210df.s3.amazonaws.com/135519351/243179875-e2120e96-22c6-4396-bed4-70b05f207f9b.png)](https://youtu.be/uDEL9BzS7l0)
 
 ## Description
 
